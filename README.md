@@ -1,6 +1,7 @@
 I'm a skilled software developer with experience in backend and frontend, and expertise in Java, Javascript, Typescript,
-and the major popular frameworks like SpringBoot, React, Node.js. Also I'm familiar with Databases and AWS infrastructures.
-Devops skills are also growing in my mind.
+and the major popular frameworks like SpringBoot, React, Node.js. 
+
+Also I'm familiar with Databases and AWS infrastructures. Devops skills are also growing in my mind.
 
 I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions to solve
 real-world problems.
