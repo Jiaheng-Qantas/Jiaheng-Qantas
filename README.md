@@ -1,3 +1,5 @@
+# Hi! 👋 I'm Jiaheng
+
 I'm a skilled software developer with experience in backend and frontend, and expertise in Java, Javascript, Typescript,
 and the major popular frameworks like SpringBoot, React, Node.js. 
 
@@ -7,4 +9,4 @@ I'm a quick learner and collaborate closely with clients to create efficient, sc
 real-world problems.
 As a senior consultant, provide sensible default coding pattern to my customers to improve the team skills.
 
-Let's work together and share creative ideas to each other, we can change the world!
+Looking forward to working with you guys and learn from each other!
